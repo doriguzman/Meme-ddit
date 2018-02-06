@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  background-color: lightblue;
+  color:lightcoral
+  
+}
+button{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: lightcoral;
+  color: lightblue;
+  border-radius: 10px 
+}
+textarea{
+  background-color:lightblue
+
+}
+
+
+#horizontalSplit{
+  margin-top: 50px; 
+}
+
+#comments{
+  text-align: left
+}
+
+.listedComments{
+  text-align:left
+}
+li{
+  list-style: none
+}
